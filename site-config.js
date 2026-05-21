@@ -5,8 +5,8 @@ window.ParaBondhuConfig = {
     googleFormUrl: "https://forms.gle/zdBdKSxcgzfX9fNS8",
     googleFormEmbedUrl: "",
     whatsappCommunityUrl: "https://chat.whatsapp.com/Cwv7D3yK4gdHPXYj7qotbE",
-    instagramUrl: "PASTE_INSTAGRAM_LINK_HERE",
-    contactEmail: "PASTE_CONTACT_EMAIL_HERE",
+    instagramUrl: "https://www.instagram.com/parabondhu/",
+    contactEmail: "help.parabondhu@gmail.com",
     logoPath: "./public/parabondhu-logo.png?v=2",
     heroImagePath: "./public/parabondhu-header-bg.png?v=2"
   },
